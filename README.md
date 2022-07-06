@@ -5,7 +5,8 @@
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,zig,js,ts,html,css,sass,vue,nuxt,vscode)](https://skillicons.dev)
 
 <details>
-  <summary>Github Stats :trophy:</summary>
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=EnceladusX2&theme=synthwave&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnceladusX2&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+  <summary>Github Stats 🏆</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=enceladusx2&theme=noctis_minimus&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enceladusx2&layout=compact&theme=noctis_minimus&count_private=true&hide_border=true)</a>
 </details>
