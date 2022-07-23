@@ -2,7 +2,7 @@
 
 **I'm Enceladus** - I'm a programmer, game designer, and aspiring fullstack developer. I work on a lot of non-profit fan projects in my free time, and I'm currently in the process of writing my own game engine, as well as designing an original game. When I'm not doing that, I'm probably reading!
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,zig,js,ts,html,css,sass,vue,nuxt,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,zig,js,ts,html,css,sass,vue,nuxt,visualstudio)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats 🏆</summary>
